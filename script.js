@@ -1,6 +1,8 @@
-document.querySelectorAll('.faq-question').forEach(btn => {
-  btn.addEventListener('click', () => {
-    const answer = btn.nextElementSibling;
-    answer.style.display = answer.style.display === 'block' ? 'none' : 'block';
+
+document.querySelectorAll(".accordion").forEach(button => {
+  button.addEventListener("click", function() {
+    this.classList.toggle("active");
+    const panel = this.nextElementSibling;
+    panel.style.display = panel.style.display === "block" ? "none" : "block";
   });
 });
