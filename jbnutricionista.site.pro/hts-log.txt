@@ -1,0 +1,21 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 21 May 2025 16:33:06 at https://jbnutricionista.site.pro/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://jbnutricionista.site.pro/ -O1 "C:\Meus Sites\jbnutricionista.site.pro" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:33:08	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://jbnutricionista.site.pro/js/a188dd9af9fa009e3c469ea67dd41f50-bundle.js?ts=20250521193403
+16:33:21	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://jbnutricionista.site.pro/js/a188dd9af9fa02c3bcada662bd503381-bundle.js?ts=20250521193403
+16:33:22	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://jbnutricionista.site.pro/js/a188dd9af9fa01b115e7d192d3ccab26-bundle.js?ts=20250521193403
+16:33:23	Error: 	"Not Found" (404) at link https://jbnutricionista.site.pro/img/icon-logo.svg (from https://jbnutricionista.site.pro/css/common-bundle.css?ts=20250521193403)
+16:33:23	Error: 	"Not Found" (404) at link https://jbnutricionista.site.pro/img/icon-logo-red.svg (from https://jbnutricionista.site.pro/css/common-bundle.css?ts=20250521193403)
+16:33:23	Error: 	"Not Found" (404) at link https://jbnutricionista.site.pro/img/flags_matrix.png (from https://jbnutricionista.site.pro/css/common-bundle.css?ts=20250521193403)
+16:33:23	Error: 	"Error when decompressing" (-1) at link https://jbnutricionista.site.pro/Blogue/Vida-saudável/ (from https://jbnutricionista.site.pro/Blogue/)
+16:33:23	Error: 	"Error when decompressing" (-1) at link https://jbnutricionista.site.pro/Blogue/A-Importância-da-Hidratação-na-Nutrição/ (from https://jbnutricionista.site.pro/Blogue/)
+16:33:23	Error: 	"Error when decompressing" (-1) at link https://jbnutricionista.site.pro/Blogue/Os-Benefícios-de-um-Plano-Alimentar-Personalizado/ (from https://jbnutricionista.site.pro/Blogue/)
+16:33:27	Error: 	"Error when decompressing" (-1) at link https://jbnutricionista.site.pro/Blogue/Dicas-Práticas-para-Montar-um-Prato-Saudável/ (from https://jbnutricionista.site.pro/Blogue/?bpage=2&bcpp=3)
+
+HTTrack Website Copier/3.49-2 mirror complete in 21 seconds : 56 links scanned, 48 files written (9191152 bytes overall) [8341227 bytes received at 397201 bytes/sec], 1135000 bytes transferred using HTTP compression in 21 files, ratio 21%
+(7 errors, 3 warnings, 0 messages)
