@@ -1,0 +1,74 @@
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+header {
+  background: #4CAF50;
+  color: white;
+  padding: 1em;
+  text-align: center;
+}
+nav ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+nav a {
+  color: white;
+  text-decoration: none;
+}
+.hero {
+  background: #e8f5e9;
+  padding: 2em;
+  text-align: center;
+}
+.btn {
+  background: #4CAF50;
+  color: white;
+  padding: 0.7em 1.2em;
+  border-radius: 8px;
+  text-decoration: none;
+}
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  padding: 2em;
+  justify-content: center;
+}
+.card {
+  background: #f1f1f1;
+  padding: 1.5em;
+  border-radius: 10px;
+  max-width: 300px;
+}
+#faq {
+  padding: 2em;
+}
+.faq-question {
+  width: 100%;
+  background: #4CAF50;
+  color: white;
+  padding: 1em;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 1em;
+}
+.faq-answer {
+  display: none;
+  margin-top: 0.5em;
+  background: #f9f9f9;
+  padding: 1em;
+  border-radius: 5px;
+}
+footer {
+  background: #333;
+  color: white;
+  text-align: center;
+  padding: 1em;
+  margin-top: 2em;
+}
